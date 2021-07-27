@@ -6,4 +6,4 @@ You can choose whether to play against the computer or another player, in additi
 
 ![](/GameSettingsRTicTacToe.png)
 
-![](/GameSettingsRTicTacToe.png)
+![](/GameBoardRticTacToe.png)
